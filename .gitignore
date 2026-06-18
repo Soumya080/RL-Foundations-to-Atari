@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment (if any is created locally inside the folder)
+.venv/
+venv/
+env/
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Large checkpoints, training recordings, and logs
+/05_REINFORCE_Framework/logs/
+/05_REINFORCE_Framework/results/
+/06_Atari_DQN_Pong/checkpoints/
+/06_Atari_DQN_Pong/recordings/
+/06_Atari_DQN_Pong/DATALOG/
