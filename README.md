@@ -73,7 +73,7 @@ RL-FULLL/
 
 1. Clone this repository:
    ```bash
-   git clone <YOUR_REPOSITORY_URL>
+   git clone https://github.com/Soumya080/RL-Foundations-to-Atari
    cd RL-FULLL
    ```
 
